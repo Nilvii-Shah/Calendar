@@ -1,0 +1,61 @@
+body {
+  /* background-color: #919191; */
+}
+
+.container {
+  background-color: #fff;
+}
+
+h3{
+  color: #fff;
+}
+
+#date {
+  width: 30%;
+}
+#enter {
+  width: 64%;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.active {
+  background-color: red;
+}
+
+.card-header {
+  background: steelblue;
+}
+
+.inputData {
+  margin: 40px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #000;
+}
+
+button {
+  margin-left: 40px;
+  padding: 10px 20px ;
+  border: none;
+  background-color: steelblue;
+}
+
+
+.form-control {
+  margin: 30px;
+  border-radius: 0;
+}
+
+.sunday {
+  background-color: rgb(255, 68, 68);
+  color: #fff;
+}
